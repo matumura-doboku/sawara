@@ -1,0 +1,7 @@
+{
+  "default": {
+    "lanes": 2,
+    "capacity_per_lane": 600,
+    "unit": "vehicles/hour"
+  }
+}
