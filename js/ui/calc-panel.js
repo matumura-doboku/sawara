@@ -1,0 +1,1 @@
+export function renderCalc(){ console.log('calc panel'); }

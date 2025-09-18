@@ -1,0 +1,1 @@
+export function renderHome(){ console.log('home panel'); }

@@ -1,0 +1,1 @@
+export function renderLegend(){ console.log('legend'); }

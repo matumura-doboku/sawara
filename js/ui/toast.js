@@ -1,0 +1,1 @@
+export function notify(m){ console.log('toast', m); }

@@ -1,0 +1,1 @@
+export function renderReport(){ console.log('report panel'); }

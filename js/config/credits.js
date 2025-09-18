@@ -1,0 +1,1 @@
+export function showCredits(){ console.log('credits'); }

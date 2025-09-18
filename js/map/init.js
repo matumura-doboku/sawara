@@ -1,0 +1,1 @@
+export function initMap(){ console.log('map init'); }

@@ -1,0 +1,1 @@
+export function mountTabs(){ console.log('tabs mount'); }
